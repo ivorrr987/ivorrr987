@@ -14,6 +14,9 @@
 
 ## Project
 ### 2023
+- ['음성인식 키오스크' - 융합 SW 해커톤 지정과제1 우수상](https://github.com/Deepple-ADA)
+- ['딥틱'(커플 사진 미션 앱) in Apple Developer Academy @POSTECH](https://github.com/DeveloperAcademy-POSTECH/MC3-Team8-Aing)
+- ['오로지'(일상에서 완성하는 부모님의 이야기) in Apple Developer Academy @POSTECH](https://github.com/DeveloperAcademy-POSTECH/2023-MC2-A-TEAM11-HYOZA)
 
 ### 2022
 - ['하루의 마침표'(일기 기반 감정 분석 및 컨텐츠 추천 서비스)](https://github.com/boostcampaitech3/final-project-level3-nlp-01)
